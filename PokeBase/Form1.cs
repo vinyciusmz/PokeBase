@@ -15,6 +15,15 @@ namespace PokeBase
         public Form1()
         {
             InitializeComponent();
+            dgvPokemon.DataSource = Pokemon.listarTodos();
+        }
+
+        private void dgvPokemon_Click(object sender, EventArgs e)
+        {
+            Pokemon p = (Pokemon)dgvPokemon.SelectedRows[0].DataBoundItem;
+            lblHabilidades.Text = Habilidades.buscar(p.id);
+            lblFraquezas.Text = Fraquezas.buscar(p.id);
+            lblTipo.Text = Tipos.buscar(p.id);
         }
     }
 }

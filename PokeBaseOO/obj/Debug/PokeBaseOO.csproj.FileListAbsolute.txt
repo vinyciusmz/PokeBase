@@ -1,0 +1,12 @@
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\bin\Debug\PokeBaseOO.exe.config
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\bin\Debug\PokeBaseOO.exe
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\bin\Debug\PokeBaseOO.pdb
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.csprojResolveAssemblyReference.cache
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.Form1.resources
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.Properties.Resources.resources
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.csproj.GenerateResource.Cache
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.csproj.CoreCompileInputs.cache
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.exe
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\obj\Debug\PokeBaseOO.pdb
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\bin\Debug\pokebase.dll
+C:\Users\thiago.rclaro\Dropbox\Projetos\PokeBaseOO\PokeBaseOO\bin\Debug\pokebase.pdb
